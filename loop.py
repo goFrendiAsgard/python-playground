@@ -3,7 +3,7 @@ for i in range(1, 6):
 
 print("")
 
-for i in range(1, 6, 2):
+for i in range(6, 1, -2):
     print(i)
 
 print("")
